@@ -25,3 +25,8 @@ import bitmap
 b = bitmap.Bitmap(2**20)
 print b
 len(b.map)
+
+
+
+
+dfovmdfkopgdkmfgsdop'fkdospdfpsko'dfkop'
